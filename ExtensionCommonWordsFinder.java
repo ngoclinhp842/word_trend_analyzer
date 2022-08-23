@@ -8,7 +8,7 @@ The class has a method that reads the word count file and dumps the words straig
 Usage: CommonWordsFinder <N> <WC file 1> <...>
 Reports the N most common words in each provided Word Count file.
 
-How to run: type "javac ExtensionCommonWordsFinder.java" in the command line.
+Example on how to run: type "javac ExtensionCommonWordsFinder.java" in the command line.
             type "java ExtensionCommonWordsFinder 10 2008 2009 2010 2011 2012 2013 2014 2015" 
             in the command line.
 */
