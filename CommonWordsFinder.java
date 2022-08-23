@@ -11,7 +11,10 @@ Date: 04/24/2022
 The class reads the word count file and dumps the words straight into a PQHeap
 
 Usage: CommonWordsFinder <N> <WC file 1> <...>
-Reports the N most common words in each provided Word Count file.
+            Reports the N most common words in each provided Word Count file. 
+            For WC file 1, download from zip file for this link: 
+            https://drive.google.com/file/d/1Byv9eJ2QOgi1ynuwE9auRJ3NK2F0KRHp/view?usp=sharing
+            and only enter the year of the file.
 
 How to run: type "javac CommonWordsFinder.java" in the command line.
             type "java CommonWordsFinder 10 2008 2009 2010 2011 2012 2013 2014 2015" in the command line
