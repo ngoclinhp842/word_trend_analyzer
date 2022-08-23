@@ -6,7 +6,9 @@ Date: 04/24/2022
 The class has a method that reads the word count file and dumps the words straight into a BSTMap
 
 Usage: CommonWordsFinder <N> <WC file 1> <...>
-Reports the N most common words in each provided Word Count file.
+            Reports the N most common words in each provided Word Count file. 
+            For WC file 1, download from the file Reddit Comment and 
+            only enter the year of the file.
 
 Example on how to run: type "javac ExtensionCommonWordsFinder.java" in the command line.
             type "java ExtensionCommonWordsFinder 10 2008 2009 2010 2011 2012 2013 2014 2015" 
